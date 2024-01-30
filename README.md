@@ -2,7 +2,8 @@
 <h1 align="center"> Landing Page Halloween  </h1>
 
 
-![halloween](https://github.com/gyhbelchior/halloween/assets/124063494/1ef06c7c-bd3e-413d-bd90-873cdc57abec)
+![halloween (1)](https://github.com/gyhbelchior/halloween/assets/124063494/4510434a-bf13-4fc3-98ac-6618b89f94cd)
+
 
 
 ## Link do projeto https://gyhbelchior.github.io/flutuar
