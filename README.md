@@ -1,5 +1,5 @@
 
-<h1 align="center"> Landing Page Halloween  </h1>
+<h1 align="center"> 🎃 Landing Page Halloween  </h1>
 
 
 
@@ -16,7 +16,7 @@
 
 
 ## 📄 Descrição
-Projeto de landing page temática desenvolvido como atividade prática do DevClub, com foco em layout, estilização e responsividade utilizando HTML e CSS. Desenvolvida com o objetivo de criar uma interface visualmente atrativa e envolvente, explorando o tema Halloween. O projeto foi utilizado para praticar conceitos de estruturação semântica, estilização e organização de layout.
+Projeto de landing page temática desenvolvido como atividade prática do DevClub, com foco em layout, estilização e responsividade utilizando HTML e CSS. Desenvolvida com foco na criação de uma interface visualmente atrativa e envolvente, explorando o tema Halloween. O projeto foi utilizado para praticar conceitos de estruturação semântica, estilização e organização de layout.
  
 
 
@@ -32,9 +32,9 @@ Projeto de landing page temática desenvolvido como atividade prática do DevClu
 
 <br/> </br> 
 ## 💻Tecnologias Utilizadas
-- **HTML5:** 
+- **HTML5** 
 
-- **CSS3:** 
+- **CSS3** 
 
 <br/> </br> 
 ## 🎯 Objetivo do Projeto
